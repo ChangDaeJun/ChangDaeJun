@@ -12,12 +12,12 @@
   * 인원 : 5명(백엔드 2명, 프론트 2명, 디자이너 1명), 벡인드 팀원 담당
   * 개발 기간 : 22년 12월 ~ 진행중
   * 사용 기술 : Spring Boot, JPA, MySQL, AWS
-  * 주요 구현 사항 : 게시판 기능, 이미지 관리
+  * 주요 담당 구현 사항 : 게시판 기능, 이미지 관리
   
 ### 2. 개인 프로젝트 Board Project <https://github.com/ChangDaeJun/Board-Project>
-  * 개발 기간 : 23년 2월 22일 ~ 23년 2월 26일
-  * 사용 기술 : JDBC, Servlet, JSP, lombok, tomcat 10, H2 database
-  * 주요 구현 사항 : 게시판 기능, 좋아요 기능, 댓글 기능, 관리자 기능
+  * 개발 기간 : 23년 2월 22일 ~ 진행중
+  * 사용 기술 : Servlet, JSP, lombok, tomcat 10, H2 database
+  * 주요 구현 사항 : 게시판 기능, 유저 기능, 관리자 기능, 좋아요 기능, 댓글 기능
   
   
 ## 공부 페이지
