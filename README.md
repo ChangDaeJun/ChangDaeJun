@@ -23,6 +23,7 @@
 ## 공부 페이지
 
 * CS 및 기술 정리 페이지 : <https://github.com/ChangDaeJun/study>
+* git 실험실 : https://github.com/ChangDaeJun/testGit
 
 ## 개발 타임라인
 * 22년 1월 ~ 6월 : 첫 개발 시작, 독학
