@@ -15,9 +15,10 @@
   * 주요 담당 구현 사항 : 게시판 기능, 이미지 관리, 댓글 및 대댓글 기능
   
 ### 2. 개인 프로젝트 Board Project <https://github.com/ChangDaeJun/Board-Project>
-  * 개발 기간 : 23년 2월 22일 ~ 3월 2일
-  * 사용 기술 : Servlet, JSP, lombok, tomcat 10, H2 database
+  * 개발 기간 : 23년 2월 22일 ~ 3월 7일
+  * 사용 기술 : Servlet, JSP, lombok, tomcat 10, H2 database, JDBC
   * 주요 구현 사항 : 게시판 기능, 유저 기능, 관리자 기능, 좋아요 기능, 댓글 기능
+  * 핵심 과제 : MVC 패턴 구현, 코드 중복을 최소화한 데이터베이스 연결 로직, 서비스 객체 모듈화
   
   
 ## 공부 페이지
