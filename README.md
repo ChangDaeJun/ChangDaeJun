@@ -19,11 +19,18 @@
   * 개발 기간 : 22년 12월 ~ 진행중
   * 사용 기술 : Spring Boot, JPA, MySQL, AWS
   * 주요 담당 구현 사항 : 게시판 기능, 이미지 관리, 댓글 및 대댓글 기능
+
+### 3. 개인 프로젝트 BoardBootProject <https://github.com/ChangDaeJun/BoardBootProject>
+  * 개발 기간 : 23년 3월 20일 ~ 진행중
+  * 사용 기술 : Spring Boot, JPA, JSP(예상), MySQL
+  * 주요 구현 사항 : 게시판 기능, 유저 기능, 관리자 기능, 좋아요 기능, 댓글 기능
+  * 핵심 과제 : TDD 개발, 객체지향 원칙(SOLID) 준수, 기존 프로젝트의 개선(Board Project)
   
 ## 공부 페이지
 
 * CS 및 기술 정리 페이지 : <https://github.com/ChangDaeJun/study>
 * git 실험실 : https://github.com/ChangDaeJun/testGit
+* 머신 러닝 : https://github.com/ChangDaeJun/machineLearning
 
 ## 개발 타임라인
 * 22년 1월 ~ 6월 : 첫 개발 시작, 독학
