@@ -1,4 +1,4 @@
-# I'm ChangDaeJun, most like Code refactory.
+# I'm ChangDaeJun. My bias is Code refactory.
 
 ## Intro.
 
