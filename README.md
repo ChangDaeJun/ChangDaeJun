@@ -1,12 +1,25 @@
-# 백엔드 개발자 장대준의 깃허브 페이지입니다.
+# I'm ChangDaeJun, most like Code refactory.
 
-### Contect
+## Intro.
+
+### 1. Interesting
+```
+  1. Spring 컨테이너
+  2. Code Refactory
+  3. Test Code
+  4. AI, Machine Learning, Deep Learning
+```
+### 2. Skill
+  * 자주 사용하는 기술 : Java, Spring(Boot), Git, MySQL, Maven, gradle
+  * 사용해본 기술 : C++, Oracle, MongoDB
+
+### 3. Contect
 * email : eowns1209@gail.com
 
-## 깃허브 status
+### 4. github status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangDaeJun&theme=dark&show_icons=true)
 
-## 프로젝트
+## Project
   
 ### 1. 프로젝트 설계 및 리펙토링 연구
   * 목표 : 더 좋은 코드, 더 빠른 개발
@@ -24,13 +37,12 @@
   * 사용 기술 : Spring Boot, JPA, MySQL, AWS
   * 주요 담당 구현 사항 : 게시판 기능, 이미지 관리, 댓글 및 대댓글 기능
   
-## 공부 페이지
-
+## Study Repositories
 * CS 및 기술 정리 페이지 : <https://github.com/ChangDaeJun/study>
 * git 실험실 : https://github.com/ChangDaeJun/testGit
 * 머신 러닝 : https://github.com/ChangDaeJun/machineLearning
 
-## 개발 타임라인
+## Time Line
 * 22년 1월 : 개발 시작(C++)
 * 22년 2월 ~ 6월 : Java, 알고리즘, 네트워크, 자료구조, 데이터베이스, 운영체제 학습
 * 22년 7월 ~ 8월 : Spring 프로젝트(PFI)
