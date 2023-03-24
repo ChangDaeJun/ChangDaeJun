@@ -4,14 +4,13 @@
 
 ### 1. Interesting
 ```
-  1. Spring 컨테이너
+  1. Spring
   2. Code Refactory
   3. Test Code
   4. AI, Machine Learning, Deep Learning
 ```
 ### 2. Skill
-  * 자주 사용하는 기술 : Java, Spring(Boot), Git, MySQL, Maven, gradle
-  * 사용해본 기술 : C++, Oracle, MongoDB
+  * Java, Spring(Boot), Git, MySQL, Maven, gradle
 
 ### 3. Contect
 * email : eowns1209@gail.com
@@ -38,16 +37,18 @@
   * 주요 담당 구현 사항 : 게시판 기능, 이미지 관리, 댓글 및 대댓글 기능
   
 ## Study Repositories
-* CS 및 기술 정리 페이지 : <https://github.com/ChangDaeJun/study>
-* git 실험실 : https://github.com/ChangDaeJun/testGit
-* 머신 러닝 : https://github.com/ChangDaeJun/machineLearning
+* CS & tech Repository : <https://github.com/ChangDaeJun/study>
+* Git test Repository : https://github.com/ChangDaeJun/testGit
+* Maching Learning Repository : https://github.com/ChangDaeJun/machineLearning
 
 ## Time Line
-* 22년 1월 : 개발 시작(C++)
-* 22년 2월 ~ 6월 : Java, 알고리즘, 네트워크, 자료구조, 데이터베이스, 운영체제 학습
-* 22년 7월 ~ 8월 : Spring 프로젝트(PFI)
-* 22년 10월 : 프로그래머스 1,000위 달성
-* 22년 12월 : Spring Boot 팀 프로젝트 시작(Cookeep, 진행중), 멀티캠퍼스 수강 시작(백엔드 양성 과정, ~5.9 예정)
-* 23년 1월 : 데이터베이스 논문 번역(Codd, E.F. (1970). A Relational Model of Data for Large Shared Data Banks)
-* 23년 2월 : Servlet&JSP 프로젝트(Board Project, ~3.7)
-* 23년 3월 : Spring 프로젝트(BBP, ~3.24)
+|기간|내용|
+|---|---|
+|22.1|개발 시작(C++)|
+|22.2 ~ 22.6|Java, 알고리즘, 네트워크, 자료구조, 데이터베이스, 운영체제 학습|
+|22.7 ~ 22.8|Spring 프로젝트(PFI)|
+|22.10|프로그래머스 1,000위 달성|
+|22.12|Spring Boot 팀 프로젝트 시작(Cookeep, 진행중), 멀티캠퍼스 수강 시작(백엔드 양성 과정, ~5.9 예정)|
+|23.1|데이터베이스 논문 번역(Codd, E.F. (1970). A Relational Model of Data for Large Shared Data Banks)|
+|23.2|Servlet&JSP 프로젝트(Board Project, ~3.7)|
+|23.3|Spring 프로젝트(BBP, ~3.24)|
