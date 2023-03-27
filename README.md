@@ -1,11 +1,11 @@
-# I'm ChangDaeJun. My bias is Code refactory.
+# I'm ChangDaeJun. My bias is code refactory.
 
 ## Intro.
 
 ### 1. Interesting
 ```
-  1. Spring
-  2. Code Refactory
+  1. Code Refactory
+  2. Spring
   3. Test Code
   4. AI, Machine Learning, Deep Learning
 ```
@@ -20,21 +20,21 @@
 
 ## Project
   
-### 1. 프로젝트 설계 및 리펙토링 연구
-  * 목표 : 더 좋은 코드, 더 빠른 개발
-  * 기간 : 23년 2월 ~ 진행중
-  * 연구 이력
+### 1. Study Code Refactory And Code Architecture
+  * goal : more speed in develop, easy to read code.
+  * period : 2023.02 ~ 
+  * history
 
-|번호|분류|프로젝트 이름|목표|기간|사용기술|
+|num|appliation type|project name|detail goals|period|used tech|
 |---|---|---|---|---|---|
-|1|게시판 웹|[Board-Project](https://github.com/ChangDaeJun/Board-Project)|1. MVC 패턴 구현 <br> 2. 코드 중복을 최소화한 데이터베이스 <br> 3. 연결 로직 서비스 객체 모듈화|23.02.22 ~ 23.02.07|Servlet, JSP, tomcat, JDBC, H2|
-|2|게시판 웹|[BoardBootProject](https://github.com/ChangDaeJun/BoardBootProject)|1. TDD 개발 <br> 2. 객체지향 원칙(SOLID) 준수 <br> 3. 기존 프로젝트의 개선|23.03.20 ~ 23.03.24|Spring Boot, JPA, JSP, MySQL|
+|1|Board Web|[Board-Project](https://github.com/ChangDaeJun/Board-Project)|1. Implements MVC pattern <br> 2. reduce code duplicate in database <br> 3. Modularization service logic|23.02.22 ~ 23.02.07|Servlet, JSP, tomcat, JDBC, H2|
+|2|Board Web|[BoardBootProject](https://github.com/ChangDaeJun/BoardBootProject)|1. Used TDD <br> 2. Used 'SOLID'Principles <br> 3. Improvement of previously project|23.03.20 ~ 23.03.24|Spring Boot, JPA, JSP, MySQL|
 
-### 2. 팀 프로젝트 cookeep <https://github.com/ks12b0000/Team-project>
-  * 인원 : 5명(백엔드 2명, 프론트 2명, 디자이너 1명), 벡인드 팀원 담당
-  * 개발 기간 : 22년 12월 ~ 진행중
-  * 사용 기술 : Spring Boot, JPA, MySQL, AWS
-  * 주요 담당 구현 사항 : 게시판 기능, 이미지 관리, 댓글 및 대댓글 기능
+### 2. Cookeep <https://github.com/ks12b0000/Team-project>
+  * Member :  2 back-end developer, 2 front-end developer, 1 deginer
+  * period : 2022.12 ~
+  * used tech : Spring Boot, JPA, MySQL, AWS
+  * My implements : board CRUD, server image store system, comment and reply CRUD, recommand system
   
 ## Study Repositories
 * CS & tech Repository : <https://github.com/ChangDaeJun/study>
@@ -42,13 +42,13 @@
 * Maching Learning Repository : https://github.com/ChangDaeJun/machineLearning
 
 ## Time Line
-|기간|내용|
+|period|content|
 |---|---|
-|22.1|개발 시작(C++)|
-|22.2 ~ 22.6|Java, 알고리즘, 네트워크, 자료구조, 데이터베이스, 운영체제 학습|
-|22.7 ~ 22.8|Spring 프로젝트(PFI)|
-|22.10|프로그래머스 1,000위 달성|
-|22.12|Spring Boot 팀 프로젝트 시작(Cookeep, 진행중), 멀티캠퍼스 수강 시작(백엔드 양성 과정, ~5.9 예정)|
-|23.1|데이터베이스 논문 번역(Codd, E.F. (1970). A Relational Model of Data for Large Shared Data Banks)|
-|23.2|Servlet&JSP 프로젝트(Board Project, ~3.7)|
-|23.3|Spring 프로젝트(BBP, ~3.24)|
+|22.1|first develop|
+|22.2 ~ 22.6|Java, algorithm, network, data structure, Relation DataBase, Operating System|
+|22.7 ~ 22.8|Spring Project(PFI)|
+|22.10|ranked 1000th in [programmers](https://programmers.co.kr/)|
+|22.12|Spring Boot Project(Cookeep)|
+|23.1| Page translae into Korean(Codd, E.F. (1970). A Relational Model of Data for Large Shared Data Banks)|
+|23.2|Servlet&JSP Project(Board Project, ~3.7)|
+|23.3|Spring Project(BBP, ~3.24)|
