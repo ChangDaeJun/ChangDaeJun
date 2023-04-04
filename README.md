@@ -27,8 +27,8 @@
 
 |num|appliation type|project name|detail goals|period|used tech|
 |---|---|---|---|---|---|
-|1|Board Web|[Resolve Circular Referecnes](https://github.com/ChangDaeJun/Board-Project)|1. Implements MVC pattern <br> 2. reduce code duplicate in database <br> 3. Modularization service logic|23.02.22 ~ 23.03.07|Servlet, JSP, tomcat, JDBC, H2|
-|2|Board Web|[TDD and SOLID principles](https://github.com/ChangDaeJun/BoardBootProject)|1. Used TDD <br> 2. Used 'SOLID'Principles <br> 3. Improvement of previously project|23.03.20 ~ 23.03.24|Spring Boot, JPA, JSP, MySQL|
+|1|Board Web|[Resolve Circular Dependency](https://github.com/ChangDaeJun/Resolve-Circular-Dependency)|1. Implements MVC pattern <br> 2. reduce code duplicate in database <br> 3. resolve circular dependency|23.02.22 ~ 23.03.07|Servlet, JSP, tomcat, JDBC, H2|
+|2|Board Web|[TDD and SOLID principles](https://github.com/ChangDaeJun/TDD-and-SOLID-principles)|1. Used TDD <br> 2. Used 'SOLID'Principles <br> 3. Improvement of previously project|23.03.20 ~ 23.03.24|Spring Boot, JPA, JSP, MySQL|
 
 ### 2. Cookeep <https://github.com/ks12b0000/Team-project>
   * Member :  2 back-end developer, 2 front-end developer, 1 deginer
@@ -37,7 +37,8 @@
   * My implements : board CRUD, server image store system, comment and reply CRUD, recommand system
   
 ## Study Repositories
-* CS & tech Repository : <https://github.com/ChangDaeJun/study>
+* tech Repository : https://github.com/ChangDaeJun/tech
+* CS Repository : https://github.com/ChangDaeJun/CS
 * Git test Repository : https://github.com/ChangDaeJun/testGit
 * Maching Learning Repository : https://github.com/ChangDaeJun/machineLearning
 
