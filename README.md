@@ -27,7 +27,7 @@
 
 |num|appliation type|project name|detail goals|period|used tech|
 |---|---|---|---|---|---|
-|1|Board Web|[Resolve Circular Referecnes](https://github.com/ChangDaeJun/Board-Project)|1. Implements MVC pattern <br> 2. reduce code duplicate in database <br> 3. Modularization service logic|23.02.22 ~ 23.02.07|Servlet, JSP, tomcat, JDBC, H2|
+|1|Board Web|[Resolve Circular Referecnes](https://github.com/ChangDaeJun/Board-Project)|1. Implements MVC pattern <br> 2. reduce code duplicate in database <br> 3. Modularization service logic|23.02.22 ~ 23.03.07|Servlet, JSP, tomcat, JDBC, H2|
 |2|Board Web|[TDD and SOLID principles](https://github.com/ChangDaeJun/BoardBootProject)|1. Used TDD <br> 2. Used 'SOLID'Principles <br> 3. Improvement of previously project|23.03.20 ~ 23.03.24|Spring Boot, JPA, JSP, MySQL|
 
 ### 2. Cookeep <https://github.com/ks12b0000/Team-project>
@@ -50,5 +50,5 @@
 |22.10|ranked 1000th in [programmers](https://programmers.co.kr/)|
 |22.12|Spring Boot Project(Cookeep)|
 |23.1| Page translae into Korean(Codd, E.F. (1970). A Relational Model of Data for Large Shared Data Banks)|
-|23.2|Servlet&JSP Project(Board Project, ~3.7)|
-|23.3|Spring Project(BBP, ~3.24)|
+|23.2|Servlet&JSP Project(Resolve Circular Referecnes)|
+|23.3|Spring Project(TDD and SOLID principles)|
