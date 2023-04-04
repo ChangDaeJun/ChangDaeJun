@@ -48,7 +48,7 @@
 |22.1|first develop|
 |22.2 ~ 22.6|Java, algorithm, network, data structure, Relation DataBase, Operating System|
 |22.7 ~ 22.8|Spring Project(PFI)|
-|22.10|ranked 1000th in [programmers](https://programmers.co.kr/)|
+|22.10|Achieved 1000th on [Programmers](https://programmers.co.kr/), a coding test page. Picture taken on April 3, 2023. </br> ![스크린샷 2023-04-04 오후 10 00 45](https://user-images.githubusercontent.com/97227920/229799819-02fa86a3-61de-487c-866d-d55d7a85f947.png)|
 |22.12|Spring Boot Project(Cookeep)|
 |23.1| Page translae into Korean(Codd, E.F. (1970). A Relational Model of Data for Large Shared Data Banks)|
 |23.2|Servlet&JSP Project(Resolve Circular Referecnes)|
