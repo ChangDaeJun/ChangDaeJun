@@ -26,7 +26,7 @@
   * period : 4/2023 ~ 5/2023
   * technologies used : Spring Boot, Mybatis, Oracle, AWS EC2, Oracle Cloud etc.
   * My Role : login, logout, email notification service, deployment of the service
-  * link : http://ec2-3-36-70-206.ap-northeast-2.compute.amazonaws.com/
+  * URL : http://ec2-3-36-70-206.ap-northeast-2.compute.amazonaws.com/
   
 <br>
 
@@ -35,7 +35,7 @@
   * period : 12/2022 ~
   * used tech : Spring Boot, JPA, MySQL, AWS
   * My Role : board CRUD, image storage system, comment and reply CRUD, recommand system
-
+  * URL : https://www.teamprojectvv.shop/
 <br>
 
 ### 3. solo projects
