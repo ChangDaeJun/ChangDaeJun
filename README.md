@@ -21,7 +21,7 @@
   * period : 4/2023 ~ 5/2023
   * technologies used : Spring Boot, Mybatis, Oracle, AWS EC2, Oracle Cloud etc.
   * My Role : login, logout, email notification service, deployment of the service
-  * URL : http://ec2-3-36-70-206.ap-northeast-2.compute.amazonaws.com/
+  * URL : https://www.child-ctv.com
   
 <br>
 
