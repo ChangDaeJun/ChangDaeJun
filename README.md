@@ -41,8 +41,7 @@
 <br>
   
 ## Study Repositories
-* tech Repository : https://github.com/ChangDaeJun/tech
-* Machine Learning Repository : https://github.com/ChangDaeJun/machineLearning
+* study Repository : https://github.com/ChangDaeJun/study
 
 <br>
 
