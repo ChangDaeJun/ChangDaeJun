@@ -1,13 +1,9 @@
 # I'm ChangDaeJun. I develop to help others.
 
-## Overview
-
 ### 1. Interests
 ```
-  1. Code refactoring
-  2. Spring
-  3. Test Code
-  4. AI, Machine Learning, Deep Learning
+  1. RDBMS
+  2. Code Refactoring
 ```
 ### 2. Skills
   * Java, Spring(Boot), Git, Maven, gradle, Relational database(Oracle, Mybatis)
@@ -19,7 +15,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangDaeJun&theme=dark&show_icons=true)
 
 ## Project
-  
   
 ### 1. CCTV <https://github.com/ChangDaeJun/CCTV>
   * Member : 6 Back-end engineer
@@ -38,13 +33,12 @@
   * URL : https://www.teamprojectvv.shop/
 <br>
 
-### 3. solo projects
-|num|application type|project name|detailed goals|period|used tech|
-|---|---|---|---|---|---|
-|1|Board Web|[Resolve Circular Dependency](https://github.com/ChangDaeJun/Resolve-Circular-Dependency)|1. Implements MVC pattern <br> 2. reduce code duplicate in database <br> 3. resolve circular dependency|23.02.22 ~ 23.03.07|Servlet, JSP, tomcat, JDBC, H2|
-|2|Board Web|[TDD and SOLID principles](https://github.com/ChangDaeJun/TDD-and-SOLID-principles)|1. Used TDD <br> 2. Used 'SOLID'Principles <br> 3. Improvement of previously project|23.03.20 ~ 23.03.24|Spring Boot, JPA, JSP, MySQL|
-  
-  <br>
+### 3. All 3-lines Summary <https://github.com/ChangDaeJun/All_3-Lines_Summary>
+  * Member : Solo
+  * period : 4/2023 ~
+  * used tech : Spring Boot, JPA, MySQL
+<br>
+<br>
   
 ## Study Repositories
 * tech Repository : https://github.com/ChangDaeJun/tech
