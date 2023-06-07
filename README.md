@@ -36,6 +36,7 @@
   * 사용 기술 : Spring Boot, Mybatis, Oracle, AWS EC2, Oracle Cloud etc.
   * 담당 구현 : login, logout, email notification service, deployment of the service
   * 서비스 URL : https://www.child-ctv.com
+  * 기획서 링크 : https://drive.google.com/file/d/1-BBacGJHytsK0PQ-gB9V8rMWRhBvaG5O/view?usp=sharing
   
 <br>
 <br>
