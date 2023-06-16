@@ -1,18 +1,20 @@
 # 개발을 좋아하는 장대준의 레포지토리입니다.
 
-### 1. 관심사
-```
-  1. RDBMS
-  2. 알고리즘
-  3. 객체지향
-```
-### 2. 스킬
+### 1. 스킬
   * Java, Spring(Boot), Git, Maven, gradle, Relational database(Oracle, Mybatis)
 
-
-### 3. github status
+### 2. github status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangDaeJun&theme=dark&show_icons=true)
 
+<br>
+<br>
+
+## 학습 레포지토리 <https://github.com/ChangDaeJun/study>
+  * 기간 : 11/2022 ~
+  * 학습 내용 : Java, Relational Database, Network, Operate Systemm, Spring, Maven, Git, Servlet, JSP
+
+<br>
+<br>
 
 ## 프로젝트
 
@@ -39,9 +41,3 @@
   * 서비스 URL : https://www.child-ctv.com
   * 기획서 링크 : https://drive.google.com/file/d/1-BBacGJHytsK0PQ-gB9V8rMWRhBvaG5O/view?usp=sharing
   
-<br>
-<br>
-  
-## 학습 레포지토리 <https://github.com/ChangDaeJun/study>
-  * 기간 : 11/2022 ~
-  * 학습 내용 : Java, Relational Database, Network, Operate Systemm, Spring, Maven, Git, Servlet, JSP
